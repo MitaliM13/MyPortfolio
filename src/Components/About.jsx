@@ -15,6 +15,7 @@ const About = () => {
         provident eveniet a in dicta placeat numquam temporibus incidunt sint
         voluptatibus. Fugiat provident et corporis non?
       </p>
+      <button className="bg-teal-700 py-2 px-4 mt-4 rounded-full text-white font-semibold">View My Work!</button>
     </div>
   );
 };
